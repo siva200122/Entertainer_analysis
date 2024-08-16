@@ -10,8 +10,11 @@ Analyzing details about the entertainers by populating data and creating a visua
 
 Dataset :
 Entertainer-Basic Info: It consists of list of 70 Entertainers Name, Birth year and Gender
+
 Entertainer-Breakthrough Info: It consists of details about the 70 entertainers like breakthrough year, first major award, breakthrough movie
+
 Entertainer-Last major work Info: It consists of the details about the 70 entertainers last major work and if died, Year of death details
+
 Data populating flow:
 Combined provided data set into single file with the help of python.
 
